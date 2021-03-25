@@ -1,0 +1,14 @@
+
+.rezervacija{
+
+float:right;
+font-size:40px;
+margin-top:40px;
+margin-right:20%;
+font-family:courier,arial,helvetica;
+}
+
+input{
+
+border:3px solid;
+}
