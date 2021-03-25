@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { RezervacijeComponent } from './rezervacije/rezervacije.component';
 import { HomeComponent } from './home/home.component';
 import { StatusComponent } from './status/status.component';
-import { AdiministracijaComponent } from './adiministracija/adiministracija.component';
+import { AdministracijaComponent } from './administracija/administracija.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +14,7 @@ import { AdiministracijaComponent } from './adiministracija/adiministracija.comp
     RezervacijeComponent,
     HomeComponent,
     StatusComponent,
-    AdiministracijaComponent
+    AdministracijaComponent
   ],
   imports: [
     BrowserModule,
